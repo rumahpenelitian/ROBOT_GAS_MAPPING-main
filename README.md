@@ -43,6 +43,7 @@ Beberapa bahan bahan yang digunakan pada robot ini diantaranya :
 - MICRO SERVO
 </details>
 
+
 Kalkulasi mekanis untuk keperluan koordinat sistem / pergerakan stepper motor
 KALKULASI SUDUT PUTAR ROBOT / STEP PER MM
 <details>
